@@ -3,7 +3,7 @@ package createfile;
 import java.io.File;
 import java.io.IOException;
 
-public class Createfile {
+public class CreateFile {
 	public static void main(String[] args) {
 		File file = new File("E:\\FileHandle\\createfile.txt");
 		try {
